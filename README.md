@@ -15,5 +15,5 @@ Trying to build a flutter cubit/bloc state management app. Build the ui and perf
 ![圖片](https://user-images.githubusercontent.com/90837134/207673319-c57897b6-cfbb-4c2b-9e98-50f8b6644782.png)
 
 
-### Detail page
+### Detail page.
 ![圖片](https://user-images.githubusercontent.com/90837134/207673207-d0fbb0ee-9e50-478f-9b90-099be751587f.png)
